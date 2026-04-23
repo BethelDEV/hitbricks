@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">打砖块</string>
+    <string name="title_activity_main">@string/app_name</string>
+    <string name="high_score">"历史最高得分: "</string>
+    <string name="score">"得分: "</string>
+    <string name="yes">确认</string>
+    <string name="no">取消</string>
+    <string name="game_over">游戏结束</string>
+    <string name="new_high_score">"得分新高: "</string>
+    <string name="do_you_want_to_restart_the_game">是否再玩一局？</string>
+    <string name="final_score">"本局得分: "</string>
+    <string name="ready">准备好了吗？点击屏幕&#8230; </string>
+    <string name="game_exit">退出游戏</string>
+    <string name="do_you_want_to_exit_the_game">是否退出游戏？</string>
+
+</resources>
